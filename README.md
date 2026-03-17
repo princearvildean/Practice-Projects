@@ -5,9 +5,9 @@ Hi! I’m a beginner web developer, and this is my first blog project. I’m sti
 ## Preview
 Here’s a quick preview of my blog:
 
-![Desktop View](output screenshot/desktop.png)
-![Mobile View](output screenshot/mobile.png)
-![Active State View](output screenshot/active state.png)
+![Desktop View](output-screenshot/desktop.png)
+![Mobile View](output-screenshot/mobile.png)
+![Active State View](output-screenshot/active-state.png)
 
 > Note: This screenshot shows how my blog looks locally.  
 
